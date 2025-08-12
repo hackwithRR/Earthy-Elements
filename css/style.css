@@ -2503,7 +2503,7 @@ footer .widget.mailchimp{
 
 @media (max-width: 767px) {
     .page_banner{
-        min-height: 600px;
+        
         padding: 62px 39px 59px;
         display: flex;
         align-items: center;
