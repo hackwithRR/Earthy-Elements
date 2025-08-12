@@ -2503,9 +2503,10 @@ footer .widget.mailchimp{
 
 @media (max-width: 767px) {
     .page_banner{
-        
+        /* min-height: 440px; */
         padding: 62px 39px 59px;
         display: flex;
+        align-items: center;
         align-items: center;
     }
   }
@@ -5991,3 +5992,10 @@ body .bookedClearFix:after {
     transform: translate(-50%, -50%) scale(1);
   }
   
+  .herosecimgphone img{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
