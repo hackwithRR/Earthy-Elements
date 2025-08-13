@@ -2496,7 +2496,7 @@ footer .widget.mailchimp{
 .page_banner{
     min-height: 305px;
     overflow: hidden;
-    padding: 378px 0 120px;
+    padding: 378px 0 230px;
     position: relative;
     background: #f5f5f5;
 }
@@ -5998,4 +5998,21 @@ body .bookedClearFix:after {
     justify-content: center;
     align-items: center;
     
-  }
+  
+
+.service-icon {
+    font-size: 28px;
+    color: #d19c97;
+    margin-bottom: 10px;
+    display: block;
+}
+.package_item {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    text-align: left;
+}
+.package_item h5 {
+    min-height: 48px; /* Keeps headings aligned */
+}
