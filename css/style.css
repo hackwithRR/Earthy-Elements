@@ -594,11 +594,11 @@
     fill: inherit;
 }
 .serviceItem_01:hover .ib_box svg{
-    fill: #1eb367;
+    fill: linear-gradient(90deg,rgba(32, 181, 27, 1) 0%, rgba(0, 255, 157, 1) 32%, rgba(89, 255, 0, 0.5) 100%);;
 }
 .ib_box > i{
     font-size: 56px;
-    color: #1eb367;
+    color: linear-gradient(90deg,rgba(32, 181, 27, 1) 0%, rgba(0, 255, 157, 1) 32%, rgba(89, 255, 0, 0.5) 100%);;
     left: 0;
     margin: auto;
     position: absolute;
@@ -628,7 +628,7 @@
     transition: all 0.4s ease;
 }
 .serviceItem_01:hover .ib_box > i{
-    color: #fff;
+    color:linear-gradient(90deg,rgba(32, 181, 27, 1) 0%, rgba(0, 255, 157, 1) 32%, rgba(89, 255, 0, 0.5) 100%);;
 }
 .serviceItem_01:hover .ib_box .bg_icon{
     color: #fff;
